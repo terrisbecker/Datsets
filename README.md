@@ -1,5 +1,5 @@
 # Datsets
-All of my personal datasets. Data collected by me and free to use. 
+All of my personal datasets. Data collected by myself and is free to use. 
 
 ## 100dicerolls.txt
 A dataset containing 100 rolls of 6 different dice. Each column corresponds to one of the die and is labeled 'd' followed by the number
