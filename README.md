@@ -11,3 +11,6 @@ A dataset containing the arrival times of 62 cars at an In-n-Out drive through i
 
 ## regression_benchmark.csv
 A very straigtforward bivariate dataset for testing regression algorithms. Will be used in the contex of comparing Bayesian regression/time series algorithms to least squares regression.
+
+## regression_test_function.R
+A nice function for creating dummy datasets for use in testing regression algorithms. Input a vector of slopes and a desired noise variance.
